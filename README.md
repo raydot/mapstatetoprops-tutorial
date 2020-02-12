@@ -1,6 +1,11 @@
+# `mapStateToProps()` Tutorial
+
+### Following [tutorial](https://medium.com/ovrsea/mapstatetoprops-and-why-you-may-not-need-mapdispatchtoprops-as-a-beginner-dd012a3da5e6) from Antoine Sauvage on mapStateToProps() and mapDispatchToProps()
+
+<hr>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts from `create-react-app`
 
 In the project directory, you can run:
 
